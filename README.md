@@ -2,7 +2,7 @@
 
 The Rainmaker SDK is available as a Private Pod framework
 
-Rainmaker is an advanced Photo Editing and a print product App builder. Use Rainmaker to quickly build great Apps for greeting cards, photo books, flyers, brochures, business cards, photo gifts and more.
+Rainmaker is an advanced Photo Editing and a print product App builder. Use Rainmaker to quickly build great Apps for greeting cards, photo books, flyers, brochures, business cards, photo gifts, camera apps and more.
 
 All of the published Rainhut layouts, templates, frames, stickers, overlays, and fonts are available with Rainmaker. 
 
