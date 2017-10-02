@@ -1,4 +1,4 @@
-# rainhut Rainmaker SDK 
+# Rainmaker SDK 
 
 The Rainmaker SDK is available as a Private Pod framework
 
